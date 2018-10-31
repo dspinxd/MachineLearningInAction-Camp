@@ -7,7 +7,7 @@ from numpy import *
 import matplotlib
 import matplotlib.pyplot as plt
 
-from Ch02 import kNN
+import kNN
 
 fig = plt.figure()
 ax = fig.add_subplot(111)
